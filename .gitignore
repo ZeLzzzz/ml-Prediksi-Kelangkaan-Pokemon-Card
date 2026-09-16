@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Log & berkas sementara
+*.log
+_cek_sementara.csv
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
